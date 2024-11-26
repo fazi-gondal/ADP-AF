@@ -38,4 +38,4 @@ Throughout human history, agricultural revolutions have changed the way humans w
 
 Early archeological sites tracing the development of the First Agricultural Revolution have been found in **Abu Hureyna** (modern Syria) and **Catalhoyuk** (modern Turkey), revealing evidence of cultivating fruit trees, growing grain, and domesticating animals. During the Second Agricultural Revolution, inventors such as **Jethro Tull** and **Charles ''Turnip'' Townshend** perfected new techniques for improving crop yields. In the Green Revolution, scientific researcher **Norman Borlaug** bred disease-resistant plants and produced more yields, and innovations in the Third Agricultural Revolution helped to reduce world poverty and hunger.
 
-### <mark>All Credit goes to Prof. Farah Aslan</mark>
+### <mark>All Credit goes to Prof. Farah Aslam</mark>
